@@ -1,0 +1,25 @@
+<Student> 
+ <name>Gordan</name>
+ <surname>Sajević</surname> 
+ <phone>12312341</phone> 
+ <gradeAverage>6.3</gradeAverage> 
+</Student>
+<Student> 
+ <name>Jesenko</name>
+ <surname>Gavrić</surname> 
+ <phone>34532341</phone> 
+ <gradeAverage>7.5</gradeAverage> 
+</Student>
+<Student> 
+ <name>Edib</name>
+ <surname>Imamović</surname> 
+ <phone>123345341</phone> 
+ <gradeAverage>6.1</gradeAverage> 
+</Student>
+<Student> 
+ <name>Nedžad</name>
+ <surname>Hamzić</surname> 
+ <phone>67812341</phone> 
+ <gradeAverage>7.3</gradeAverage> 
+</Student>
+
